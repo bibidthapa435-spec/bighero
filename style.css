@@ -1,0 +1,30 @@
+
+body { 
+    margin:0;
+    fornt font-family: Arial, sans-serif;
+    background-color:red;
+    
+}
+header{
+    background-color: aqua;
+    color:rgb(107, 79, 79);
+    text-align: center;
+    padding: 20px;
+    height: 50%;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    padding: 14px 20px ;
+ display:inline-block;
+    
+}
+nav a:hover{
+    background-color: rgb(88, 128, 97);
+
+}
+p1{
+    text-align: center;
+    color: blue;
+}
+
